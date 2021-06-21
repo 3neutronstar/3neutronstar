@@ -1,4 +1,16 @@
-### Hi there 👋
+<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F3neutronstar&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+</div>
+
+### Research Interest
+- Knowledge distillation
+- Reinforcement Learning for applying real-world issues
+
+### Experience
+- 2021.01-2021.02 ETRI(Electronics and Telecommunications Research Institute, Korea) AI Research
+- 2021.03-Present KIST(Korea Institute of Science and Technology) AI Research
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://3neutronstar.github.io/)](https://3neutronstar.github.io/) 
 
 <!--
 **3neutronstar/3neutronstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
