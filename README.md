@@ -6,7 +6,7 @@
 
 ### Research Interest
 - Knowledge distillation
-- Reinforcement Learning for applying real-world issues
+- Reinforcement Learning for applying to the real-world issues
 
 ### Experience
 - 2021.01-2021.02 ETRI(Electronics and Telecommunications Research Institute, Korea) AI Research
