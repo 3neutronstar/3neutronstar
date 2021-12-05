@@ -5,7 +5,7 @@
 </div>
 
 ### Research Interest
-- Knowledge distillation
+- Data Augmentation, Test-time augmentation
 - Reinforcement Learning for applying to the real-world issues
 
 ### Experience
