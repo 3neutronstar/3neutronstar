@@ -10,7 +10,7 @@
 
 ### Experience
 - 2021.01-2021.02 ETRI(Electronics and Telecommunications Research Institute, Korea) AI Research
-- 2021.03-Present KIST(Korea Institute of Science and Technology) AI Research
+- 2021.03-2021.12 KIST(Korea Institute of Science and Technology) AI Research
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://3neutronstar.tistory.com/)](https://3neutronstar.tistory.com/) 
 
