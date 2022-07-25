@@ -15,6 +15,13 @@
 - 2016.03-2022.02   Department of Electronic Engineering, Soongsil University, Seoul, Korea (Barchelor degree, Summa Cum Laude)
 - 2022.03-Present   KIST(Korea Institute of Science and Technology) AI Research
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3neutronstar&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3neutronstar)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://3neutronstar.tistory.com/)](https://3neutronstar.tistory.com/) 
 
 <!--
