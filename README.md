@@ -18,10 +18,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3neutronstar&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3neutronstar)](https://github.com/anuraghazra/github-readme-stats)
-
-</br>
-
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://3neutronstar.github.io/)](https://3neutronstar.github.io/) 
 
 <!--
