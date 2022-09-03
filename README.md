@@ -18,7 +18,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3neutronstar&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://3neutronstar.github.io/)](https://3neutronstar.github.io/) 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://3neutronstar.github.io/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minsoo-kang-4a97291b9/)
 
 <!--
 **3neutronstar/3neutronstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
