@@ -5,7 +5,7 @@
 </div>
 
 ### Research Interest
-- Data Augmentation, Test-time augmentation
+- Data Augmentation, Neural Network Debiasing
 - Data Inversion, Continual Learning
 - Reinforcement Learning for applying to the real-world issues
 
@@ -22,7 +22,7 @@
 
 </br>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://3neutronstar.github.io/)](https://3neutronstar.tistory.com/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://3neutronstar.github.io/)](https://3neutronstar.github.io/) 
 
 <!--
 **3neutronstar/3neutronstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
