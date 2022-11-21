@@ -5,7 +5,7 @@
 </div>
 
 ### Research Interest
-- Data Augmentation, Neural Network Debiasing
+- Data Augmentation, Debiasing Representation
 - Data Inversion, Continual Learning
 - Reinforcement Learning for applying to the real-world issues
 
