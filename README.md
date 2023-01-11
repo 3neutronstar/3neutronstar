@@ -5,7 +5,7 @@
 </div>
 
 ### NEWS
-  My paper "GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps" have been accepted at AAAI-23. (as the first author, code will be released!)
+  My paper "GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps (Oral)" have been accepted at AAAI-23. (as the first author, code will be released!)
   
 ### Research Interest
 - Data Augmentation, Debiasing Representation
