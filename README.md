@@ -12,7 +12,7 @@
 ### Experience
 - 2021.01-2021.02   Research Intern, Department of Smart Data, AI Research Center, ETRI, Korea
 - 2021.03-2021.12   Research Intern, Center for Artificial Intelligence, KIST (Korea Institute of Science and Technology)
-- 2016.03-2022.02   Department of Electronic Engineering, Soongsil University, Korea (Barchelor degree, *Summa Cum Laude*)
+- 2016.03-2022.02   Department of Electronic Engineering, Soongsil University, Korea (Bachelor degree, *Summa Cum Laude*)
 - 2022.03-Present   Student Researcher, Center for Artificial Intelligence, KIST (Korea Institute of Science and Technology)
 - 2022.03-Present   Master student, Department of Artificial Intelligence, Korea University, Korea
 
