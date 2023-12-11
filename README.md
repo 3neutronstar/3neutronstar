@@ -3,8 +3,10 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F3neutronstar&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
   
 </div>
+
 ### NEWS
-  My paper "Catch-up Mix: Catch-up Class for Struggling Filters in CNN" have been accepted at AAAI-24. (as the co-first author, code will be released!)
+  
+My paper "Catch-up Mix: Catch-up Class for Struggling Filters in CNN" have been accepted at AAAI-24. (as the co-first author, code will be released!)
   
 ### Research Interest
 - Data Augmentation, Debiasing Representation
