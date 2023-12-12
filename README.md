@@ -11,7 +11,7 @@ My paper "Catch-up Mix: Catch-up Class for Struggling Filters in CNN" have been 
 ### Research Interest
 - Data Augmentation, Debiasing Representation
 - Data Inversion, Continual Learning
-- Reinforcement Learning for applying to the real-world issues
+- Reinforcement Learning for applying to real-world issues
 
 ### Experience
 - 2021.01-2021.02   Research Intern, Department of Smart Data, AI Research Center, ETRI, Korea
