@@ -18,7 +18,7 @@ My paper "Catch-up Mix: Catch-up Class for Struggling Filters in CNN" have been 
 - 2021.03-2021.12   Research Intern, Center for Artificial Intelligence, KIST (Korea Institute of Science and Technology)
 - 2016.03-2022.02   Department of Electronic Engineering, Soongsil University, Korea (Bachelor degree, *Summa Cum Laude*)
 - 2022.03-Present   Student Researcher, Center for Artificial Intelligence, KIST (Korea Institute of Science and Technology)
-- 2022.03-Present   Master student, Department of Artificial Intelligence, Korea University, Korea
+- 2022.03-Present   Master Candidate, Department of Artificial Intelligence, Korea University, Korea
 
 
 
