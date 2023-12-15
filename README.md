@@ -23,8 +23,7 @@ My paper "Catch-up Mix: Catch-up Class for Struggling Filters in CNN" have been 
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://3neutronstar.github.io/) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minsoo-kang-4a97291b9/)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minsoo-k-4a97291b9/)
 <!--
 **3neutronstar/3neutronstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
