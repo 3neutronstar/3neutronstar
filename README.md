@@ -17,9 +17,9 @@ My paper "Catch-up Mix: Catch-up Class for Struggling Filters in CNN" have been 
 - 2021.01-2021.02   Research Intern, Department of Smart Data, AI Research Center, ETRI, Korea
 - 2021.03-2021.12   Research Intern, Center for Artificial Intelligence, KIST (Korea Institute of Science and Technology)
 - 2016.03-2022.02   Department of Electronic Engineering, Soongsil University, Korea (Bachelor degree, *Summa Cum Laude*)
-- 2022.03-Present   Student Researcher, Center for Artificial Intelligence, KIST (Korea Institute of Science and Technology)
-- 2022.03-Present   Master Candidate, Department of Artificial Intelligence, Korea University, Korea
-
+- 2022.03-2024.06   Student Researcher, Center for Artificial Intelligence, KIST (Korea Institute of Science and Technology)
+- 2022.03-2024.08   Master Candidate, Department of Artificial Intelligence, Korea University, Korea
+- 2024.08-present   Hyundai Mobis
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://3neutronstar.github.io/) 
