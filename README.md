@@ -6,7 +6,7 @@
 
 ### NEWS
   
-My paper "Catch-up Mix: Catch-up Class for Struggling Filters in CNN" have been accepted at AAAI-24. (as the co-first author, code will be released!)
+My paper "Model-Agnostic and Efficient Mixup Augmentation Guided by Saliency Maps" has been accepted at TPAMI, 2025.
   
 ### Research Interest
 - Data Augmentation, Debiasing Representation
@@ -19,7 +19,7 @@ My paper "Catch-up Mix: Catch-up Class for Struggling Filters in CNN" have been 
 - 2016.03-2022.02   Department of Electronic Engineering, Soongsil University, Korea (Bachelor degree, *Summa Cum Laude*)
 - 2022.03-2024.06   Student Researcher, Center for Artificial Intelligence, KIST (Korea Institute of Science and Technology)
 - 2022.03-2024.08   Master Candidate, Department of Artificial Intelligence, Korea University, Korea
-- 2024.08-present   Hyundai Mobis
+- 2024.09-present   Hyundai Mobis
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://3neutronstar.github.io/) 
